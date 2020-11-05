@@ -1,0 +1,20 @@
+heap first
+new a 10
+new b 5
+exibe
+a = b
+exibe
+del a
+new c 3
+b = c
+exibe
+heap next
+new d 4
+exibe
+c = d
+del c
+exibe
+del d
+exibe
+del b
+exibe
